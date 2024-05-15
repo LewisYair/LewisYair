@@ -1,5 +1,5 @@
-# 💫 About Me:
-Acerca de mi:<br><br>Perfil de GitHub - Lewis Yair<br><br>Nunca es tarde para comenzar con algo que realmente quieres hacer<br><br>Condenado al éxito💸<br><br>Ig: @lewiss_yair🧃<br><br>
+# 🧃 ACERCA DE MI:
+<br><br>Perfil de GitHub - Lewis Yair<br><br>Nunca es tarde para comenzar con algo que realmente quieres hacer<br><br>Condenado al éxito💸<br><br>Ig: @lewiss_yair🧃<br><br>
 
 
 ## 🌐 Socials:
