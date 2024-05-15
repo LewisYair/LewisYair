@@ -1,8 +1,8 @@
-# 🧃 ACERCA DE MI:
+# 🧃Acerca de mi:
 <br><br>Perfil de GitHub - Lewis Yair<br><br>Nunca es tarde para comenzar con algo que realmente quieres hacer<br><br>Condenado al éxito💸<br><br>Ig: @lewiss_yair🧃<br><br>
 
 
-## 🌐 Socials:
+## 🌐 Redes⚡:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/lewisstunt6?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lewiss_yair?igsh=MW5ueGtpMnQyb20weQ==) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@lewis_494?_t=8mNXlT2PoHe&_r=1) 
 
 # 💻 Tech Stack:
